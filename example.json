@@ -1,0 +1,122 @@
+[
+  {
+    "story":"courtshipMarriage",
+    "audio":"Gma-01-web-marriage",
+    "storyTitle":"Courtship & Marriage",
+    "rDate":"15 March 2013",
+    "sText":"Grandma Rose talks about how she pursued Grandpa.",
+    "sTags":[ "Grandma Rose", "Grandpa Wendell","Waterloo","Fall River"],
+    "segment":[
+      {
+        "segTitle":"Spiegels",
+        "time":0,
+        "desc":"Where Rose met Wendell.",
+        "latlong":[42.498342,-92.335197]
+      },
+      {
+        "segTitle":"First Date",
+        "time":65,
+        "desc":"The Paramount Theatre",
+        "latlong":[42.49751,-92.3368]
+      },
+      {
+        "segTitle":"Home",
+        "time":86,
+        "desc":"Rose's Home",
+        "latlong":[42.48705,-92.33979]
+      },
+      {
+        "segTitle":"Corsage",
+        "time":90,
+        "desc":"The flower store",
+        "latlong":[42.49419,-92.33873]
+      },
+      {
+        "segTitle":"The Proposal",
+        "time":109,
+        "desc":"Rose proposes to Wendell..and he proposes back",
+        "latlong":[42.50056,-92.33387]
+      },
+      {
+        "segTitle":"Cory Street Episcopal Methodist Church",
+        "time":144,
+        "desc":"Where they got married.",
+        "latlong":[41.719026,-71.150734]
+      }    
+    ]
+  },
+  {
+    "story":"jobHistory",
+    "audio":"Gma-01-web-jobhistory",
+    "storyTitle":"Job History of Grandma Rose",
+    "rDate":"15 March 2013",
+    "sText":"Places Rose worked growing up, during and after high school.",
+    "sTags":[ "Grandma Rose"],
+    "segment":[
+      {
+        "segTitle":"Anderson & Little Suit Store",
+        "time":10,
+        "desc":"Starting out here after high school, since college wasn't an option for women back then.",
+        "latlong":[41.690571,-71.134315]
+      },
+      {
+        "segTitle":"Grant's Department Store",
+        "time":26,
+        "desc":"Getting fired for having agency during high school.",
+        "latlong":[41.697139,-71.16064]
+      },
+      {
+        "segTitle":"Crossing the Street",
+        "time":93,
+        "desc":"Leaving Grant's",
+        "latlong":[41.697075,-71.160466]
+      },
+      {
+        "segTitle":"Working at Anderson & Little",
+        "time":93,
+        "desc":"Working in the cutting room office after high school and moving up.",
+        "latlong":[41.690571,-71.134315]
+      },
+      {
+        "segTitle":"Moving to Iowa",
+        "time":205,
+        "desc":"Getting a job in Downtown Waterloo at Spiegals.",
+        "latlong":[41.690571,-71.134315]
+      },
+      {
+        "segTitle":"Moving to Iowa",
+        "time":205,
+        "desc":"Getting a job in Downtown Waterloo at Spiegals.",
+        "latlong":[42.498342,-92.335197]
+      }
+    ]
+  },
+    {
+    "story":"growingUp",
+    "audio":"Gma-01-web-growingup-movingtoiowa",
+    "storyTitle":"Moving to Iowa",
+    "rDate":"15 March 2013",
+    "sText":"Growing up in Fall Rivers, early life, and moving to Four Wayne Street.",
+    "sTags":["Grandma Rose","Fall River"],
+    "segment":[
+      {
+        "segTitle":"A Cement Cottage",
+        "time":0,
+        "desc":"Growing up in Fall Rivers.",
+        "latlong":[41.701491,-71.155045]
+      },
+      {
+        "segTitle":"The Narrows",
+        "time":37,
+        "desc":"Rose's grandfather's small farm, picking blueberries.",
+        "latlong":[41.698962,-71.139198]
+      },
+      {
+        "segTitle":"Four Wayne Street",
+        "time":90,
+        "desc":"Moving at age 6.",
+        "latlong":[41.681591,-71.158229]
+      }
+    ]
+  }
+]
